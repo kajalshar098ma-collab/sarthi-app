@@ -40,10 +40,7 @@ Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 License
-
-MIT License
+[MIT License]
 
 Acknowledgements
-Inspired by students’ need for personalized study scheduling.
-
-Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.
+Inspired by students’ need for personalized study scheduling
